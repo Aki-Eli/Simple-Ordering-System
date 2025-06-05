@@ -1,0 +1,10 @@
+********** FOOD ORDER RECEIPT **********
+Date: Tue May 27 14:26:25 PST 2025
+
+10 x Paksiw na Pata       ₱ 100.00 (₱1,000.00)
+ 5 x Tortang Talong       ₱  40.00 (₱200.00)
+ 5 x Ice Bucket           ₱   0.00 (₱0.00)
+10 x Rice                 ₱  25.00 (₱250.00)
+
+Total Amount:             ₱1,450.00
+***************************************
